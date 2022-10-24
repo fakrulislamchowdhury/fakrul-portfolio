@@ -1,0 +1,17 @@
+.project{
+    color: black;
+    background-color: white;
+    margin-top: 10px;
+    padding-top: 10px; 
+    text-align: justify;
+    border-radius: 20px;
+}
+.web-link{
+    display: flex;
+    align-items:baseline;
+
+}
+
+.web-link a{
+    text-decoration: none;
+}
