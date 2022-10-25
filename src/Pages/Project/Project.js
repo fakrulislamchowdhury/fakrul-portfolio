@@ -10,7 +10,7 @@ const Project = (props) => {
             <div className='project px-4'>
                 <Card style={{ width: '18rem' }}>
                     <Card.Body>
-                        <Card.Title>{title}</Card.Title>
+                        <Card.Title className="fw-bolder">{title}</Card.Title>
                         <Card.Text>
                             Detail: {detail}
                         </Card.Text>

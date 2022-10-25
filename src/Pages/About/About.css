@@ -1,7 +1,11 @@
 .about{
-    width: 600px;
+    width: 50%;
 }
 
 .about-section{
     display: flex;
+}
+
+.knowledge{
+    text-align: justify;
 }

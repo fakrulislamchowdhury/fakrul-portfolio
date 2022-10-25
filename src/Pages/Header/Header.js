@@ -1,5 +1,5 @@
 import React from 'react';
-import { } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 
 const Header = () => {
@@ -12,14 +12,14 @@ const Header = () => {
         padding: "10px"
     }
     return (
-        <div>
+        <Container>
             <nav className="bg-light py-3">
                 <NavLink activeStyle={activeStyle} style={style} to="/home">Home</NavLink>
                 <NavLink activeStyle={activeStyle} style={style} to="/projects">Projects</NavLink>
                 <NavLink activeStyle={activeStyle} style={style} to="/about">About</NavLink>
                 <NavLink activeStyle={activeStyle} style={style} to="/contact">Contact</NavLink>
             </nav>
-        </div>
+        </Container>
     );
 };
 

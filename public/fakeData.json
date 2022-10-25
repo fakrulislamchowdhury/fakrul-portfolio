@@ -2,7 +2,7 @@
     {
         "id":1,
         "title": "Spten Dental Care",
-        "detail": "Bluetooth, Backup Camera, LT Package, Deckle-Mounted Lip Spoiler, High-Intensity Discharge Headlamps, LED Tailless, Preferred Equipment Group 1LT, RS Package, Wheels: 20 5-Split Spoke Machined-Face Aluminum. One-Owner.2018 Chevrolet 1LT Odometer is 20420 miles",
+        "detail": "Bluetooth, Backup Camera, LT Package, Deckle-Mounted Lip Spoiler, High-Intensity Discharge Headlamps, LED Tailless, Preferred Equipment Group 1LT, RS Package, Wheels: 20 5-Split Spoke Machined-Face Aluminum. One-Owner.2018 Chevrolet 1LT Odometer is 20420 miles. One-Owner.2018 Chevrolet 1LT",
         "backend": "https://www.w3schools.com/",
         "frontend": "https://www.w3schools.com/",
         "liveSite": "https://spten-dental-care.web.app/"
@@ -10,8 +10,8 @@
     
 {
         "id":2,
-        "title":"RR Travely",
-        "detail":"2015 Chevrolet Camry 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camry 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean Carmax.",
+        "title":"RR Travelly",
+        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://rr-travely.web.app/"
@@ -20,7 +20,7 @@
     {
         "id":3,
         "title":"Spten Online School",
-        "detail":"2015 Chevrolet Camry 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camry 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean Carmax.",
+        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://spten-online-school.netlify.app/"
@@ -38,7 +38,7 @@
     {
         "id":5,
         "title":"Panda Website",
-        "detail":"ONLY 23723 MILES!, ACCIDENT FREE HISTORY, EXPERIENCE THE CASTLE DIFFERENCE!, CASTLE CHEVROLET NORTH, ELK GROVE VILLAGE ILLINOIS, LOCAL TRADE, LEATHER, AM FM MP3 SIRIUS SATELLITE, BLUETOOTH, 6-SPEED MANUAL, SHORT THROW SHIFTER, REAR DIFFUSER",
+        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://panda-new-testsites.netlify.app/"
@@ -73,7 +73,7 @@
     {
         "id":9,
         "title":"Meo Store",
-        "detail":"2015 Chevrolet  2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE, 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean.",
+        "detail": "Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://meo-store-app.netlify.app/"
@@ -86,7 +86,6 @@
         "frontend": "url",
         "liveSite": "https://book-archive-fakrul.netlify.app/"
     },
-]
     {
         "id":11,
         "title":"Penguin Fashion",
@@ -95,7 +94,7 @@
         "frontend": "url",
         "liveSite": "https://penguin-fahion-tailwind.netlify.app/"
     },
-]
+
     {
         "id":12,
         "title":"Tesla Car",
@@ -104,29 +103,29 @@
         "frontend": "url",
         "liveSite": "url"
     },
-]
+
     {
         "id":13,
         "title":"Weather App",
-        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White",
+        "detail": "Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams. We will do whatever we can to help you find the Police Vehicle of your dreams.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://weather-app-meo.netlify.app/"
+    },
+    {
+        "id":14,
+        "title":"Honda Shop",
+        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White",
+        "backend": "url",
+        "frontend": "url",
+        "liveSite": "https://honda-cbr-fakrul.netlify.app/"
+    },
+    {
+        "id":15,
+        "title":"Mac Book",
+        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White",
+        "backend": "url",
+        "frontend": "url",
+        "liveSite": "https://newmac-book-pro.netlify.app/"
     }
-    // {
-    //     "id":14,
-    //     "title":"Honda Shop",
-    //     "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White",
-    //     "backend": "url",
-    //     "frontend": "url",
-    //     "liveSite": "https://honda-cbr-fakrul.netlify.app/"
-    // },
-    // {
-    //     "id":15,
-    //     "title":"Mac Book",
-    //     "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White",
-    //     "backend": "url",
-    //     "frontend": "url",
-    //     "liveSite": "https://newmac-book-pro.netlify.app/"
-    // }
 ]
