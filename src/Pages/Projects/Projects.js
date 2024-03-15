@@ -10,19 +10,20 @@ const Projects = () => {
         fetch('/fakeData.json')
             .then(res => res.json())
             .then(data => setProjects(data))
-    }, [])
+    }, []);
 
     return (
-        <div>
-            <section>
-                <h1 className='text-primary mt-2 text-center mt-0'>My all projects</h1>
-            </section>
-            <section className="project-container">
-                {
-                    projects.map(project => <Project key={project.id} project={project} ></Project>)
-                }
-            </section>
-        </div>
+        <>
+            <h1 className="text-primary text-center">My All Projects</h1>
+            <h4 className="text-primary mt-5 text-center">MERN Stack Projects</h4>
+            <Container>
+                <div className="project-container">
+                    {
+                        projects.map(project => <Project key={project.id} project={project} ></Project>)
+                    }
+                </div>
+            </Container>
+        </>
     );
 };
 

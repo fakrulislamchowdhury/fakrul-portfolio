@@ -9,7 +9,7 @@
 .web-link{
     display: flex;
     align-items:baseline;
-
+    justify-content: space-between;
 }
 
 .web-link a{
