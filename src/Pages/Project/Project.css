@@ -1,15 +1,13 @@
 .project{
     color: black;
-    background-color: white;
-    margin-top: 10px;
-    padding-top: 10px; 
+    background-color: white; 
     text-align: justify;
     border-radius: 20px;
     border: none;
 }
 .web-link{
     display: flex;
-    align-items:baseline;
+    align-items: baseline;
     justify-content: space-between;
 }
 

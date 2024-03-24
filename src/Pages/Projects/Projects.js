@@ -15,7 +15,6 @@ const Projects = () => {
     return (
         <>
             <h1 className="text-primary text-center">My All Projects</h1>
-            <h4 className="text-primary mt-5 text-center">MERN Stack Projects</h4>
             <Container>
                 <div className="project-container">
                     {
