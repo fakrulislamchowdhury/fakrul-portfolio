@@ -9,7 +9,7 @@ const About = (props) => {
         <Container>
             <div>
                 <h2 className="fw-bolder">Md. Fakrul Islam Chowdhury</h2>
-                <h5>MERN Stack Web Developer</h5>
+                <h5>MERN Stack Developer</h5>
                 <br /><br />
                 <div className="paragraph">
                     <p>I have Strong knowledge in MERN Stack with experience in building Web Applications by using React.js for client side, Node.js/ Express.js for server side and MongoDB for database.</p>
@@ -22,7 +22,7 @@ const About = (props) => {
                         <p>Finally, by the grace of Almighty I have completed my course as MERN stack developer and developed more than 10 projects on React & Node. My dream is to become a software engineer and will accomplish one day.</p>
                     </div>
                     <div className="col">
-                        <img className="img-fluid container" src={banner} alt="Img" />
+                        <img className="img-fluid container w-75 h-75" src={banner} alt="Img" />
                     </div>
                 </div>
             </div>
