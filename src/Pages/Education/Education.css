@@ -1,25 +1,18 @@
-.container{
-    margin: 25px;
-    padding: 25px;
-}
+/* .icon{
+    border-radius: 50%;
+    width: 32px;
+} */
 
-.item{
-    justify-content: center;
-   
-}
-
-.link{
-    text-decoration: none;
-}
 
 @media only screen and (max-width: 688px){
-    .container{
+    .education{
         grid-template-columns: repeat(1, 1fr);
     }
 }
 
 @media only screen and (min-width: 689px) and (max-width: 991px){
-    .container{
+    .education{
         grid-template-columns: repeat(2, 1fr);
     }
 }
+ 

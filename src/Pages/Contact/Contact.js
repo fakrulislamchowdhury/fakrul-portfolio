@@ -1,11 +1,14 @@
 import React from 'react';
 import './Contact.css';
+// import { Container } from 'react-bootstrap';
 
 const Contact = () => {
     return (
         <>
-            <h2 className='text-center text-warning p-3'>Contract Me</h2>
-            <div className="d-flex justify-content-around my-5">
+            <div>
+                <h2 className='text-center justify-content-center text-warning p-3'>Contract Me</h2>
+            </div>
+            <div className="d-flex justify-content-between my-5 container">
                 <div className="px-5 border-bottom bg-light text-center">
                     <h3>Email</h3>
                     <p>fislamc6@gmail.com</p>
