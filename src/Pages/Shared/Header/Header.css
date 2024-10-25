@@ -1,0 +1,13 @@
+.resume-btn{
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: none;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.resume-btn a{
+    text-decoration: none;
+}

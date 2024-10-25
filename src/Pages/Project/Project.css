@@ -1,0 +1,17 @@
+.project{
+    text-align: justify;
+}
+
+.web-link{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.web-link a{
+    text-decoration: none;
+}
+
+.project:hover{
+    background-color: honeydew;
+}

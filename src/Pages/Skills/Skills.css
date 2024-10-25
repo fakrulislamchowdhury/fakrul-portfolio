@@ -1,0 +1,18 @@
+.skills {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    color:cornflowerblue;
+}
+
+.skills2:hover{
+    background-color: aqua;
+}
+
+#top{
+    color:midnightblue
+}
