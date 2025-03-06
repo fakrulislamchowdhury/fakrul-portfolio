@@ -11,7 +11,7 @@ const Project = (props) => {
                 <Card style={{ width: '18rem' }}>
                     <Card.Body>
                         <Card.Title className="fw-bolder text-primary">{title}</Card.Title>
-                        <Card.Text>
+                        <Card.Text className='ellipsis'>
                             Detail: {detail}
                         </Card.Text>
                         <div className="web-link">

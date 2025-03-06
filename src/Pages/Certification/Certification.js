@@ -6,7 +6,7 @@ const Certification = () => {
     return (
         <Container>
             <div>
-                <h4 className="text-center mt-2 animate__animated animate__zoomIn">I've included my certification below.</h4>
+                <h4 className="text-primary text-center mt-2 animate__animated animate__zoomIn">I've included my certification below</h4>
             </div>
             <div className='Certification'>
 
@@ -15,7 +15,7 @@ const Certification = () => {
                 <div className="certificate-item2 animate__animated animate__fadeInUp">
                     <h4>Academic Certification</h4>
                     <p>
-                        <a href="https://drive.google.com/file/d/1ppWnG49EOZgQ0jiEjVZaeP0Y7eGL3Qmy/view" target="_blank" rel="noopener noreferrer">B.Sc. in Computer Science Engineering</a>
+                        <a href="https://drive.google.com/file/d/19nYEzVejcsuBq2KDN5w2SS9hB4NUwN9y/view" target="_blank" rel="noopener noreferrer">B.Sc. in Computer Science Engineering</a>
                     </p>
                     <p>
                         <a href="https://drive.google.com/file/d/1AWW9TQNdVudf2ZvjU5Zy0zbmOdsdPbTe/view" target="_blank" rel="noopener noreferrer">Diploma in Engineering</a>

@@ -6,7 +6,7 @@ const Skills = () => {
     return (
         <Container>
             <div>
-                <h4 id='top' className="text-center mt-3 animate__animated animate__zoomIn">I'm an expert on the below technology.</h4>
+                <h4 id='top' className="text-primary text-center mt-3 animate__animated animate__zoomIn">I'm an expert on the below technology</h4>
                 <div className="skills animate__animated animate__fadeInUp">
                     <div className="border p-2 mx-2 rounded skills2">HTML5</div>
                     <div className="border p-2 mx-2 rounded skills2">CSS3</div>

@@ -15,8 +15,7 @@ const Projects = () => {
     return (
         <>
             <div className="text-primary text-center mt-3 animate__animated animate__zoomIn">
-                <p>Some of my recently worked</p>
-                <h2>Projects</h2>
+                <p><strong>Some of my recent work</strong></p>
             </div>
             <Container>
                 <div className="project-container">

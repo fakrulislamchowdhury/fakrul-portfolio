@@ -2,16 +2,16 @@
     {
         "id":1,
         "title": "Spten Dental Care",
-        "detail": "Bluetooth, Backup Camera, LT Package, Deckle-Mounted Lip Spoiler, High-Intensity Discharge Headlamps, LED Tailless, Preferred Equipment Group 1LT, RS Package, Wheels: 20 5-Split Spoke Machined-Face Aluminum. One-Owner.2018 Chevrolet 1LT Odometer is 20420 miles. One-Owner.2018 Chevrolet 1LT",
-        "backend": "https://www.w3schools.com/",
-        "frontend": "https://www.w3schools.com/",
+        "detail": "From preventive care to cosmetic and restorative dentistry, we offer various treatments for all ages. Some of the dentistry services (cleanings, fillings, veneers, teeth whitening, crowns, etc.)State-of-the-art technology and modern treatments.",
+        "backend": "url",
+        "frontend": "url",
         "liveSite": "https://spten-dental-care.web.app/"
     },
 
     {
         "id":2,
         "title":"JAJ Shop",
-        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams.",
+        "detail":"It is a recondition car buying website. Developed and managed a user-friendly website to showcase used car inventory, promotions, and financing options. Optimized online listings with high-quality images, detailed descriptions, and competitive pricing to attract potential buyers.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://jaj-shop.web.app/"
@@ -20,7 +20,7 @@
     {
         "id":3,
         "title":"RR Travelly",
-        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams.",
+        "detail":"Interactive Travel Itineraries- Personalized trip planning with destination guides, maps, and suggested activities. Hotel Booking- Search, compare, and book hotels, and vacation packages with real-time availability. Verified customer feedback on hotels, attractions, and travel services.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://rr-travely.web.app/"
@@ -31,16 +31,16 @@
     {
         "id":4,
         "title":"Doctor Portal",
-        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams.",
-        "backend": "https://github.com/fakrulislamchowdhury/doctors-portal-server",
-        "frontend": "https://github.com/fakrulislamchowdhury/doctors-portal-client-mui",
+        "detail":"It is a doctor's chamber website. Patients get appointments by the date. Patients and doctors can log in to this website using Google or an email password. A Patient shows all the service and booking an appointment.Doctor can see all appointments of date booked by patient, show all patients and add a doctor.",
+        "backend": "url",
+        "frontend": "url",
         "liveSite": "https://doctor-portal-41242.web.app/"
     },
     
     {
         "id":5,
         "title":"Panda Website",
-        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams.",
+        "detail":"It is an product selling website. User can buy a product and see only his order. User-Friendly Interface- Intuitive navigation, responsive design, and seamless browsing experience across devices. Product Catalog- Well-organized product categories and filtering options for easy discovery.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://panda-new-testsites.netlify.app/"
@@ -49,45 +49,36 @@
     {
         "id":6,
         "title":"Ema John",
-        "detail":"Recent Arrival! Carmax One-Owner. Clean Carmax. CLEAN VEHICLE HISTORY...NO ACCIDENTS, ONE OWNER, POWER SUNROOF, Cameo 1LT, 2D Coupe, 3.6L V6 DGI Doha VVT, 6-Speed Automatic with TapShift, RWD.Odometer is 53375 miles below market average! 19/30 City/Highway MPGAwards: JD Power Initial Quality Study",
+        "detail":"User-Friendly Interface- Intuitive navigation, responsive design, and seamless browsing experience across devices. Secure Payment Gateway- Multiple payment methods with encryption and fraud protection. Shopping Cart & Checkout Process- Smooth, one-page checkout with guest checkout and order summary.",
         "backend": "url",
         "frontend": "url",
         "liveSite": "https://react-ema-john9.netlify.app/"
     },
     
     {
+        "id":7,
+        "title":"IT-SOC Desk Plus",
+        "detail": "Service owner management inventory. Password & incident notification system. Bulk (Promotional & Govt.) SMS management system. Change Request to modify or add features to software project. Incident RCA collect.",
+        "backend": "url",
+        "frontend": "url",
+        "liveSite": "https://apex.oracle.com/pls/apex/f?p=10466:LOGIN_DESKTOP:107972546910673:::::"
+    },
+
+    {
+        "id":8,
+        "title":"Production Automation",
+        "detail":"It's a bpo system application. Client & Employee profile system. Operation & support system. Production process, Designer & QC system. Client-wise invoice generation & summary report. Designer Wise Completed Job calculate.",
+        "backend": "url",
+        "frontend": "url",
+        "liveSite": "https://apex.oracle.com/pls/apex/f?p=24908:LOGIN_DESKTOP:107387656662921:::::"
+    },
+
+    {
         "id":9,
-        "title":"Genius-Car-Mechanics",
-        "detail": "Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find.",
+        "title":"Education Management System",
+        "detail":"Comprehensive Student Information System. Efficient Faculty & Staff Management. Seamless Course & Exam Management. Registration process integrate. Result management system.",
         "backend": "url",
         "frontend": "url",
-        "liveSite": "https://meo-store-app.netlify.app/"
-    },
-
-    {
-        "id":11,
-        "title":"Penguin Fashion",
-        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White",
-        "backend": "url",
-        "frontend": "url",
-        "liveSite": "https://penguin-fahion-tailwind.netlify.app/"
-    },
-
-    {
-        "id":12,
-        "title":"Spten Online School",
-        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White",
-        "backend": "url",
-        "frontend": "url",
-        "liveSite": "https://spten-online-school.netlify.app/"
-    },
-
-    {
-        "id":14,
-        "title":"Honda Shop",
-        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White",
-        "backend": "url",
-        "frontend": "url",
-        "liveSite": "https://honda-cbr-fakrul.netlify.app/"
+        "liveSite": "https://apex.oracle.com/pls/apex/r/ibcsfakrul/f_101/login_desktop?session=103831927328857"
     }
 ]
